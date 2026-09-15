@@ -1,0 +1,6 @@
+{
+  "name": "Mazmorra Infinita Roguelike",
+  "description": "Roguelike táctico para Android con generación infinita de mazmorras, niebla de guerra realista, combate por turnos, loot y progresión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
